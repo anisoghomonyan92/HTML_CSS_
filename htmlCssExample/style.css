@@ -1,0 +1,388 @@
+body {
+    width: 920px;
+    height: 1060px;
+    margin: 0 auto;
+    background-image: url("pictures/jpg/b_coffee.jpg");
+    background-attachment: fixed;
+}
+
+.manu {
+    height: 110px;
+    width: 100%;
+}
+
+.manu ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.logos {
+    height: 135px;
+}
+
+.logo {
+    width: 250px;
+    height: 93px;
+    float: left;
+    display: block;
+    margin: 2px;
+    padding: 20px;
+
+}
+
+.slogan {
+    width: 600px;
+    height: 80px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.pictures {
+    width: 920px;
+    height: 300px;
+    margin-top: 20px;
+
+}
+
+.arraw_left {
+    margin-bottom: 100px;
+    padding: 5px;
+}
+
+.arraw_right {
+    margin-bottom: 100px;
+    padding: 5px;
+}
+
+.thumb {
+    margin: 5px;
+}
+
+.about {
+    width: 300px;
+    height: 320px;
+    float: left;
+    margin-top: 10px;
+}
+
+.vision {
+    width: 300px;
+    height: 320px;
+    float: left;
+    margin-top: 10px;
+}
+
+.news {
+    width: 300px;
+    height: 320px;
+    float: left;
+    margin-top: 10px;
+}
+
+.title {
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.visionTitle {
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bubble {
+    margin: 20px;
+}
+
+.date {
+    margin-left: 10px;
+    color: green;
+    background-image: url("pictures/png/b_date.png");
+    height: 23px;
+    background-repeat: no-repeat;
+}
+
+.news p {
+    margin-left: 30px;
+}
+
+.moreImj {
+    margin-left: 10px;
+}
+
+.footer ul li {
+    display: inline;
+    border-right: 1px solid;
+    margin-left: 5px;
+}
+
+.footerManu {
+    width: 500px;
+    float: left;
+}
+
+.icons {
+    margin-left: 600px;
+    float: top;
+}
+
+.footer p {
+    font-size: 10px;
+    margin-left: 45px;
+}
+
+.parth2 {
+    margin-top: 40px;
+    width: 920px;
+    height: 300px;
+}
+
+.imjAboutMe {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.texAboutMe {
+    width: 550px;
+    height: 300px;
+    float: right;
+    margin-right: 45px;
+}
+
+.texAboutMe h4 {
+    color: green;
+    text-decoration: underline;
+}
+
+.parth3 {
+    width: 920px;
+    height: 300px;
+}
+
+.education {
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+
+.design_experience {
+    width: 550px;
+    height: 300px;
+    float: right;
+    margin-right: 45px;
+}
+
+.education h4 {
+    color: green;
+    text-decoration: underline;
+}
+
+.designer {
+    width: 200px;
+    height: 190px;
+    float: left;
+
+}
+
+.interface {
+    width: 200px;
+    height: 190px;
+    float: right;
+    margin-right: 70px;
+}
+
+.text_design_experience {
+    color: green;
+    text-decoration: underline;
+}
+
+.line {
+    border-bottom: grey dotted 2px;
+}
+
+.portfolio {
+    width: 920px;
+    height: 620px;
+}
+
+.folio {
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+.art_gallery {
+    width: 600px;
+    height: 620px;
+    float: right;
+    margin-right: 30px;
+    position: relative;
+}
+
+.web_design {
+    margin-top: 20px;
+}
+
+.art {
+    color: green;
+    text-decoration: underline;
+    font-size: 15px;
+    padding: 20px;
+}
+
+.folio_list {
+    font-size: 15px;
+    padding: 20px;
+}
+
+.website {
+    font-size: 15px;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.link {
+    width: 200px;
+    height: 50px;
+    float: left;
+}
+
+.pages {
+    width: 200px;
+    height: 30px;
+    float: right;
+    margin-top: 20px;
+}
+
+.services {
+    width: 920px;
+    height: 270px;
+}
+
+.services_text {
+    height: 270px;
+    width: 550px;
+    float: left;
+}
+
+.services_picture {
+    height: 270px;
+    width: 300px;
+    float: right;
+    margin-right: 20px;
+}
+
+.services_text h4 {
+    color: green;
+    text-decoration: underline;
+}
+
+.design {
+    width: 920px;
+    height: 330px;
+    display: flex;
+}
+
+.web_designer {
+    width: 306px;
+    height: 330px;
+}
+
+.web_designer h4 {
+    color: green;
+    text-decoration: underline;
+}
+
+.contacts {
+    height: 300px;
+    width: 920px;
+    display: flex;
+}
+
+.contacts_text {
+    height: 300px;
+    width: 500px;
+}
+
+.contacts_pictures {
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+#phone {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+
+#num {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ff9019;
+}
+
+.dropMe {
+    height: 60px;
+    width: 920px;
+}
+
+.email {
+    height: 60px;
+    width: 850px;
+    display: flex;
+    position: relative;
+
+
+}
+
+.form {
+    height: 50px;
+    width: 306px;
+    position: relative;
+
+}
+
+.massage {
+    height: 160px;
+    width: 920px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
